@@ -39,8 +39,9 @@ nav > a {
     float: left;
     padding: 0.750em;
     color: black;
+    font-weight: bold;
     text-decoration: none;
-    font-size: 5em;
+    font-size: 1.1em;
     width: 23%;
     text-align: center;
 }
