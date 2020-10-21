@@ -1,0 +1,19 @@
+/*001*/
+main{
+  position: absolute;
+}
+/*001*/
+table, th, td {
+    border: 0.063em solid black;
+}
+/*001*/
+th, td {
+    padding: 0.938em;
+    color: white;
+    background-color: lightcoral;
+}
+/*001*/
+table, audio, img{
+  margin: 1em;
+  float: left;
+}

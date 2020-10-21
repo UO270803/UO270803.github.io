@@ -1,0 +1,72 @@
+/*001*/
+body {
+    background-image: url("multimedia/goonies.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font: 400 1.125em 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /*Familia sans-serif*/
+    line-height: 1.8;
+    color: black;
+    height: 100%;
+}
+/*001*/
+h1 {
+    font-size: 3.125em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+}
+/*001*/
+h1, h2, h3, h4, h5{
+    margin-left: 1.875em;
+}
+/*001*/
+video{
+    display:block;
+    margin:auto;
+    width: 57.500em;
+}
+/*001*/
+nav {
+    width: 100%;
+    background-color: lightcoral;
+    overflow: auto;
+  }
+/*002*/
+nav > a {
+    float: left;
+    padding: 0.750em;
+    color: white;
+    text-decoration: none;
+    font-size: 1.063em;
+    width: 23%;
+    text-align: center;
+}
+/*001*/
+main{
+    display: block;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-top: 3.125em;
+    margin-left: 6.250em;
+    margin-right: 6.250em;
+    margin-bottom: 3.125em;
+}
+/*001*/
+p{
+    margin-left: 1.875em;
+    margin-right: 1em;
+}
+/*001*/
+img{
+    display: block;
+    margin: auto;
+    height: 20%;
+    width: 20%;
+}
+/*001*/
+li{
+    color: black;
+    margin: 0;
+}
