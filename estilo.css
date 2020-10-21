@@ -49,10 +49,10 @@ nav > a {
 main{
     display: block;
     background-color: rgba(255, 255, 255, 0.8);
-    margin-top: 3.125em;
-    margin-left: 6.250em;
-    margin-right: 6.250em;
-    margin-bottom: 3.125em;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
 }
 /*001*/
 p{
